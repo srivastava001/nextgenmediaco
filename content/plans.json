@@ -1,1 +1,57 @@
-
+{
+  "setup_fee": 4999,
+  "note": "You send photos and videos on WhatsApp or email. If you don't have new material that week, we cover the gap with AI posters so your page stays active. Prices exclude GST where applicable.",
+  "plans": [
+    {
+      "name": "Starter",
+      "for": "For shops getting started on social media",
+      "price": 11999,
+      "reels": 12,
+      "popular": false,
+      "cta": "Choose Starter",
+      "features": [
+        "12 Reels per month (3 per week)",
+        "Instagram and Facebook",
+        "Captions, logo, pricing, music and transitions",
+        "4 AI posters (no footage needed)",
+        "Scheduled auto-posting",
+        "Short monthly summary",
+        "1 revision per video, delivery within 24 hours"
+      ]
+    },
+    {
+      "name": "Growth",
+      "for": "For businesses posting every other day",
+      "price": 14999,
+      "reels": 20,
+      "popular": true,
+      "cta": "Choose Growth",
+      "features": [
+        "20 Reels per month",
+        "Instagram, Facebook and YouTube Shorts",
+        "Everything in Starter, plus motion graphics",
+        "8 AI posters",
+        "Google Business Profile setup and weekly posts",
+        "Monthly analytics report",
+        "2 revisions per video, same-day delivery"
+      ]
+    },
+    {
+      "name": "Pro",
+      "for": "For brands that want daily content",
+      "price": 24999,
+      "reels": 30,
+      "popular": false,
+      "cta": "Choose Pro",
+      "features": [
+        "30 Reels per month",
+        "Instagram, Facebook, YouTube Shorts (Telegram on request)",
+        "Everything in Growth, plus festival and offer campaigns",
+        "12 AI posters",
+        "Full Google Business Profile management",
+        "Detailed analytics report and monthly strategy call",
+        "3 revisions per video, priority same-day delivery"
+      ]
+    }
+  ]
+}

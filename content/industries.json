@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "name": "Hardware shops",
+      "size": "xl"
+    },
+    {
+      "name": "Real estate",
+      "size": "xl"
+    },
+    {
+      "name": "Restaurants",
+      "size": "l"
+    },
+    {
+      "name": "Cafes",
+      "size": "m"
+    },
+    {
+      "name": "Salons",
+      "size": "m"
+    },
+    {
+      "name": "Builders and developers",
+      "size": "l"
+    },
+    {
+      "name": "Paint dealers",
+      "size": "s"
+    },
+    {
+      "name": "Electrical stores",
+      "size": "m"
+    },
+    {
+      "name": "Sanitaryware",
+      "size": "s"
+    },
+    {
+      "name": "Clothing boutiques",
+      "size": "l"
+    },
+    {
+      "name": "Jewellers",
+      "size": "m"
+    },
+    {
+      "name": "Gyms",
+      "size": "m"
+    },
+    {
+      "name": "Coaching institutes",
+      "size": "l"
+    },
+    {
+      "name": "Schools",
+      "size": "s"
+    },
+    {
+      "name": "Clinics",
+      "size": "m"
+    },
+    {
+      "name": "Dental clinics",
+      "size": "s"
+    },
+    {
+      "name": "Furniture stores",
+      "size": "l"
+    },
+    {
+      "name": "Home decor",
+      "size": "m"
+    },
+    {
+      "name": "Interior designers",
+      "size": "m"
+    },
+    {
+      "name": "Sweet shops",
+      "size": "s"
+    },
+    {
+      "name": "Bakeries",
+      "size": "m"
+    },
+    {
+      "name": "Mobile stores",
+      "size": "m"
+    },
+    {
+      "name": "Electronics",
+      "size": "l"
+    },
+    {
+      "name": "Local brands",
+      "size": "xl"
+    },
+    {
+      "name": "Car dealers",
+      "size": "m"
+    },
+    {
+      "name": "Bike showrooms",
+      "size": "s"
+    },
+    {
+      "name": "Hotels",
+      "size": "m"
+    },
+    {
+      "name": "Banquet halls",
+      "size": "l"
+    },
+    {
+      "name": "Event planners",
+      "size": "m"
+    },
+    {
+      "name": "Travel agencies",
+      "size": "m"
+    },
+    {
+      "name": "Pharmacies",
+      "size": "s"
+    },
+    {
+      "name": "Grocery stores",
+      "size": "m"
+    },
+    {
+      "name": "Tile and marble",
+      "size": "s"
+    },
+    {
+      "name": "Opticians",
+      "size": "s"
+    },
+    {
+      "name": "Wedding photographers",
+      "size": "l"
+    },
+    {
+      "name": "Startups",
+      "size": "m"
+    }
+  ]
+}

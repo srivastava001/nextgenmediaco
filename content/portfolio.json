@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "title": "Hardware sale",
+      "industry": "Hardware",
+      "kind": "concept",
+      "url": "",
+      "image": "",
+      "badge": "20% off",
+      "caption": "Tools, paints, fittings",
+      "icon": "hammer",
+      "color1": "#FFB400",
+      "color2": "#E89B00"
+    },
+    {
+      "title": "3BHK flat",
+      "industry": "Real estate",
+      "kind": "concept",
+      "url": "",
+      "image": "",
+      "badge": "New",
+      "caption": "Ready to move, site visit open",
+      "icon": "house",
+      "color1": "#9FB6FF",
+      "color2": "#2E5BFF"
+    },
+    {
+      "title": "Grand opening",
+      "industry": "Local brands",
+      "kind": "concept",
+      "url": "",
+      "image": "",
+      "badge": "Today",
+      "caption": "Your local brand, on every feed",
+      "icon": "target",
+      "color1": "#FF7A59",
+      "color2": "#10224A"
+    },
+    {
+      "title": "New paint shades",
+      "industry": "Hardware",
+      "kind": "concept",
+      "url": "",
+      "image": "",
+      "badge": "New",
+      "caption": "Mixed in store, same day",
+      "icon": "paint",
+      "color1": "#FFE08A",
+      "color2": "#FF7A59"
+    },
+    {
+      "title": "Corner plot",
+      "industry": "Real estate",
+      "kind": "concept",
+      "url": "",
+      "image": "",
+      "badge": "Plot",
+      "caption": "Clear title, park facing",
+      "icon": "plot",
+      "color1": "#BDEBD3",
+      "color2": "#2BB673"
+    },
+    {
+      "title": "Fresh bakes",
+      "industry": "Food and cafes",
+      "kind": "concept",
+      "url": "",
+      "image": "",
+      "badge": "8 AM",
+      "caption": "Out of the oven every morning",
+      "icon": "cake",
+      "color1": "#FFD9C7",
+      "color2": "#FF7A59"
+    },
+    {
+      "title": "Salon week",
+      "industry": "Salons",
+      "kind": "concept",
+      "url": "",
+      "image": "",
+      "badge": "Offer",
+      "caption": "Hair spa and styling combos",
+      "icon": "scissors",
+      "color1": "#E3D7FF",
+      "color2": "#7B5CFF"
+    },
+    {
+      "title": "Site visit day",
+      "industry": "Real estate",
+      "kind": "concept",
+      "url": "",
+      "image": "",
+      "badge": "Sunday",
+      "caption": "Book your slot on WhatsApp",
+      "icon": "calendar",
+      "color1": "#C9D6FF",
+      "color2": "#10224A"
+    },
+    {
+      "title": "Diwali offer",
+      "industry": "Hardware",
+      "kind": "concept",
+      "url": "",
+      "image": "",
+      "badge": "Combo",
+      "caption": "Fittings combo deals",
+      "icon": "gift",
+      "color1": "#FFD466",
+      "color2": "#C2410C"
+    },
+    {
+      "title": "New arrivals",
+      "industry": "Local brands",
+      "kind": "concept",
+      "url": "",
+      "image": "",
+      "badge": "In store",
+      "caption": "Fresh stock, fresh styles",
+      "icon": "bag",
+      "color1": "#C9F0FF",
+      "color2": "#10224A"
+    }
+  ]
+}
